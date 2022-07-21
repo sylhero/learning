@@ -95,6 +95,4 @@ sonar-scanner-*
 # Webpack analyzer #
 #############################
 .rempl_endpoint_id
-
-
-*.lock
+.next
